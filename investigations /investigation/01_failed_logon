@@ -1,0 +1,6 @@
+Start with Investigation 01 Event ID 4625, failed logon. Evidence: Target user test user, logon type 2, failure reason percent percent 2313,
+IP address 127.0.0.1.
+What happened?
+A failed interactive logon attempt was recorded for the test user account.
+Analyst finding, this shows a failed authentication attempt only. 
+Check for additional Event ID 4625 events. Check whether failed attempts are repeated or occur around the same time.
